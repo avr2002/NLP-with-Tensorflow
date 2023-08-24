@@ -1,6 +1,6 @@
-# NOTES - Natural Language Processing with TensorFlow, 2nd Edition
+# Natural Language Processing with TensorFlow
 
-## My Notes from Natural Language Processing with TensorFlow by Ganegedara, Thushan. 
+## Notes on NLP using Tensorflow 
 
 ### <a href="https://amzn.eu/d/7bbPm74">🔗Book-Link</a>
 
